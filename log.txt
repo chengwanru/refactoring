@@ -1,3 +1,5 @@
+f58ad8f Task 2.4: Extracted getTotalAmount and getTotalVolumeCredits methods
+44dbf58 Task 2.3: Updated git log
 0a71e0f Task 2.3: Extracted USD formatting into usd method
 23a0793 Task 2.2: Updated git log
 e6caecf Task 2.2: Extracted volume credits calculation into getVolumeCredits method
