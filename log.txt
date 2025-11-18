@@ -1,3 +1,5 @@
+e6caecf Task 2.2: Extracted volume credits calculation into getVolumeCredits method
+4328c81 Task 2.1: Updated git log
 1af3a9f Task 2.1: Inlined thisAmount variable
 5eacc0d Task 2.1: Inlined thisAmount variable
 6198940 Task 2.1: Removed play parameter and made getAmount non-static
