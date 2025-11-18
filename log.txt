@@ -1,3 +1,5 @@
+1af3a9f Task 2.1: Inlined thisAmount variable
+5eacc0d Task 2.1: Inlined thisAmount variable
 6198940 Task 2.1: Removed play parameter and made getAmount non-static
 495ea1d Task 1.2: Updated git log
 4a1a9e8 Task 1.1: Fixed all CheckStyle issues
