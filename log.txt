@@ -1,3 +1,5 @@
+0a71e0f Task 2.3: Extracted USD formatting into usd method
+23a0793 Task 2.2: Updated git log
 e6caecf Task 2.2: Extracted volume credits calculation into getVolumeCredits method
 4328c81 Task 2.1: Updated git log
 1af3a9f Task 2.1: Inlined thisAmount variable
