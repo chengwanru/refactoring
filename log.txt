@@ -1,2 +1,4 @@
+6198940 Task 2.1: Removed play parameter and made getAmount non-static
+495ea1d Task 1.2: Updated git log
 4a1a9e8 Task 1.1: Fixed all CheckStyle issues
 74d249d Initial commit
